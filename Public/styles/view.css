@@ -1,0 +1,6 @@
+body > header > .header {
+    display: flex;
+    position: relative;
+    left: 20%;
+    color: #FF0000;
+}

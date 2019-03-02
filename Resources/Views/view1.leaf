@@ -1,0 +1,13 @@
+#set("title") { Hello, #(login)! }
+
+#set("header") {
+	<h1>Hello, #(email)!</h1>
+}
+#set("section") {
+	<h2>Hello, #(firstName)!</h2>
+}
+#set("footer") {
+	<h3>Hello, #(lastName)!</h3>
+}
+
+#embed("base1")

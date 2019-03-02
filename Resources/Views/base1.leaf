@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>#get(title)</title>
+	<link rel="stylesheet" href="/styles/view.css">
+</head>
+<body>
+	<header>
+		<div class="header">
+		#get(header)
+		</div>
+	</header>
+    <section>
+    	<div class="section">
+		#get(section)
+    		
+    	</div>
+    </section>
+    <footer>
+    	<div class="footer">
+    		#get(footer)
+    	</div>
+    </footer>
+</body>
+</html>
